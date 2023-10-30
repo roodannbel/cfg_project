@@ -21,7 +21,7 @@ body {
 .containertop {
     padding: 10em;
     background-color: #5c4a2e;
-    background-image: url(images/autumndog.jpeg);
+    background-image: url(autumndog.jpeg);
     background-blend-mode: lighten;
     background-position: center;
     background-repeat: no-repeat;
